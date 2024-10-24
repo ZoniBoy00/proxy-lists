@@ -1,0 +1,10 @@
+# Updated at 2024-10-24 18.17.26
+# Total proxies: 6
+# Format: IP:PORT # Response time
+
+212.83.137.150:13281 # Response: 809ms
+38.91.107.220:61929 # Response: 4283ms
+47.90.167.27:1000 # Response: 5933ms
+47.237.113.119:1000 # Response: 6524ms
+8.213.222.247:8081 # Response: 7312ms
+47.252.11.233:8081 # Response: 8692ms
