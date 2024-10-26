@@ -7,7 +7,7 @@ Total Proxies: 194
 ## DOWNLOAD
 
 ### HTTP
-https://raw.githubusercontent.com/ZoniBoy00/proxy-lists/main/http_proxies.txt
+https://raw.githubusercontent.com/ZoniBoy00/proxy-lists/master/http_proxies.txt
 Total: 91 proxies
 
 ### SOCKS4
