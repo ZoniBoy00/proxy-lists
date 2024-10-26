@@ -1,23 +1,30 @@
-# Elite Proxy List
+# Proxy List
 
-This list contains elite proxies that are regularly updated and verified.
-Last Updated: lauantai 26-10-2024 15.45.54 UTC
-Total Elite Proxies: 35
+This list contains proxies that are regularly updated and verified.
+Last Updated: lauantai 26-10-2024 16.53.59 UTC
+Total Proxies: 173
 
 ## DOWNLOAD
 
 ### HTTP
 https://raw.githubusercontent.com/ZoniBoy00/proxy-lists/main/http_proxies.txt
-Total: 30 proxies
+Total: 159 proxies
+
 ### SOCKS4
 https://raw.githubusercontent.com/ZoniBoy00/proxy-lists/main/socks4_proxies.txt
-Total: 5 proxies
+Total: 14 proxies
+
 ### SOCKS5
 https://raw.githubusercontent.com/ZoniBoy00/proxy-lists/main/socks5_proxies.txt
 Total: 0 proxies
 
-## Elite Proxy Counts by Type
+### ELITE
+https://raw.githubusercontent.com/ZoniBoy00/proxy-lists/main/elite_proxies.txt
+Total: 0 proxies
 
-- **HTTP**: 30
-- **SOCKS4**: 5
+## Proxy Counts by Type
+
+- **HTTP**: 159
+- **SOCKS4**: 14
 - **SOCKS5**: 0
+- **ELITE**: 0
