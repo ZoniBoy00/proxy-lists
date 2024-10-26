@@ -1,5 +1,0 @@
-# Updated at 2024-10-24 18.17.26
-# Total proxies: 1
-# Format: IP:PORT # Response time
-
-161.34.40.110:3128 # Response: 4834ms
