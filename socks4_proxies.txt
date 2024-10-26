@@ -1,10 +1,13 @@
-# Updated at 2024-10-24 18.17.26
-# Total proxies: 6
+# Updated at 2024-10-26 17.13.00
+# Total proxies: 9
 # Format: IP:PORT # Response time
 
-212.83.137.150:13281 # Response: 809ms
-38.91.107.220:61929 # Response: 4283ms
-47.90.167.27:1000 # Response: 5933ms
-47.237.113.119:1000 # Response: 6524ms
-8.213.222.247:8081 # Response: 7312ms
-47.252.11.233:8081 # Response: 8692ms
+14.241.120.172:60606 # Response: 3178ms
+190.57.131.158:1080 # Response: 3208ms
+47.90.167.27:9080 # Response: 3819ms
+149.129.226.9:4145 # Response: 4555ms
+47.250.159.65:8081 # Response: 4595ms
+47.237.92.86:8080 # Response: 4765ms
+47.91.89.3:8081 # Response: 4846ms
+47.250.177.202:8443 # Response: 5031ms
+43.252.106.114:1080 # Response: 5795ms
