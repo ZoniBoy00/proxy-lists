@@ -1,43 +1,50 @@
-# Proxy List
+# 🌐 Free Proxy List
 
-This list contains proxies that are regularly updated and verified.
-Last Updated: lauantai 26-10-2024 17.29.20 UTC
-Total Proxies: 194
+## 📊 Real-Time Statistics
+- 🕒 Last Updated: sunnuntai 27-10-2024 06.30.43 UTC
+- 📈 Total Working Proxies: 1058
 
-## DOWNLOAD
+## 📥 Proxy Downloads
 
-### HTTP
-https://raw.githubusercontent.com/ZoniBoy00/proxy-lists/master/http_proxies.txt
-Total: 91 proxies
+### HTTP Proxies
+- Count: 454
+- [Download HTTP Proxies](https://raw.githubusercontent.com/ZoniBoy00/proxy-lists/master/http_proxies.txt)
 
-### SOCKS4
-https://raw.githubusercontent.com/ZoniBoy00/proxy-lists/main/socks4_proxies.txt
-Total: 47 proxies
+### SOCKS4 Proxies
+- Count: 281
+- [Download SOCKS4 Proxies](https://raw.githubusercontent.com/ZoniBoy00/proxy-lists/master/socks4_proxies.txt)
 
-### SOCKS5
-https://raw.githubusercontent.com/ZoniBoy00/proxy-lists/main/socks5_proxies.txt
-Total: 10 proxies
+### SOCKS5 Proxies
+- Count: 114
+- [Download SOCKS5 Proxies](https://raw.githubusercontent.com/ZoniBoy00/proxy-lists/master/socks5_proxies.txt)
 
-### ELITE
-https://raw.githubusercontent.com/ZoniBoy00/proxy-lists/main/elite_proxies.txt
-Total: 46 proxies
+### Elite Proxies
+- Count: 209
+- [Download Elite Proxies](https://raw.githubusercontent.com/ZoniBoy00/proxy-lists/master/elite_proxies.txt)
 
-## NOTES
-- It is Only For Educational Purposes. Neither I Say Nor I Promote To Do Anything Illegal.
-- Developer Please Give Credits, Stars, And Follow If You Use This Proxy List.
+## 📈 Proxy Types Overview
 
-## Proxy Sources
-- Various public proxy sources
-- Regular updates every hour
-- Automatically checked for validity
-- Response time verified
+| Type | Working Proxies |
+|------|----------------|
+| HTTP | 454 |
+| SOCKS4 | 281 |
+| SOCKS5 | 114 |
+| ELITE | 209 |
 
-## Proxy Counts by Type
+## ✨ Features
+- 🔄 Auto-updates every day
+- ✅ All proxies are tested
+- ⚡ Speed tested
+- 🌍 Support for multiple proxy types
+- 🛡️ Elite proxy detection
 
-- **HTTP**: 91
-- **SOCKS4**: 47
-- **SOCKS5**: 10
-- **ELITE**: 46
+## 📝 Notes
+- Proxies are gathered from public sources
+- Speed and status may vary
+- Implement your own validation for critical uses
 
-## Disclaimer
-These proxies are gathered from public sources. Use them at your own risk.
+## ⚠️ Disclaimer
+These proxies are for educational purposes only. Users must comply with local laws and regulations.
+
+---
+*Updated: sunnuntai 27-10-2024 06.30.43 UTC*
