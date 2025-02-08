@@ -1,35 +1,35 @@
 # 🌐 Free Proxy List
 
 ## 📊 Real-Time Statistics
-- 🕒 Last Updated: Saturday 08-02-2025 03:25:44 UTC
-- 📈 Total Working Proxies: 1592
+- 🕒 Last Updated: Saturday 08-02-2025 07:06:35 UTC
+- 📈 Total Working Proxies: 1517
 
 ## 📥 Proxy Downloads
 
 ### HTTP Proxies
-- Count: 1073
+- Count: 933
 - [Download HTTP Proxies](https://raw.githubusercontent.com/ZoniBoy00/proxy-lists/master/http_proxies.txt)
 
 ### SOCKS4 Proxies
-- Count: 359
+- Count: 253
 - [Download SOCKS4 Proxies](https://raw.githubusercontent.com/ZoniBoy00/proxy-lists/master/socks4_proxies.txt)
 
 ### SOCKS5 Proxies
-- Count: 159
+- Count: 227
 - [Download SOCKS5 Proxies](https://raw.githubusercontent.com/ZoniBoy00/proxy-lists/master/socks5_proxies.txt)
 
 ### Elite Proxies
-- Count: 1
+- Count: 104
 - [Download Elite Proxies](https://raw.githubusercontent.com/ZoniBoy00/proxy-lists/master/elite_proxies.txt)
 
 ## 📈 Proxy Types Overview
 
 | Type | Working Proxies |
 |------|----------------|
-| HTTP | 1073 |
-| SOCKS4 | 359 |
-| SOCKS5 | 159 |
-| ELITE | 1 |
+| HTTP | 933 |
+| SOCKS4 | 253 |
+| SOCKS5 | 227 |
+| ELITE | 104 |
 
 ## ✨ Features
 - 🔄 Auto-updates every day
@@ -47,4 +47,4 @@
 These proxies are for educational purposes only. Users must comply with local laws and regulations.
 
 ---
-*Updated: Saturday 08-02-2025 03:25:44 UTC*
+*Updated: Saturday 08-02-2025 07:06:35 UTC*
